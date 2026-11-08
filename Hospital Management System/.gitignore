@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+out/
+
+# Log files
+*.log
+
+# Environment variables
+.env
